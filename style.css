@@ -6,12 +6,11 @@ body {
 }
 
 header {
-  background: linear-gradient(to left, #00AEEF, #000000);
+  background-color: #00AEEF;
   color: white;
   padding: 20px;
   height: 150px;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
+  
 }
 
 header h1 {
